@@ -1,0 +1,50 @@
+Optimizer: SGD
+  Accuracy: 0.5
+  F1 Score: 0.6667
+  Confusion Matrix: [[0, 3], [0, 3]]
+----------------------------------------
+Optimizer: SGD_Momentum
+  Accuracy: 0.5
+  F1 Score: 0.6667
+  Confusion Matrix: [[0, 3], [0, 3]]
+----------------------------------------
+Optimizer: SGD_Nesterov
+  Accuracy: 1.0
+  F1 Score: 1.0
+  Confusion Matrix: [[3, 0], [0, 3]]
+----------------------------------------
+Optimizer: Adam
+  Accuracy: 0.5
+  F1 Score: 0.6667
+  Confusion Matrix: [[0, 3], [0, 3]]
+----------------------------------------
+Optimizer: Adamax
+  Accuracy: 0.5
+  F1 Score: 0.0
+  Confusion Matrix: [[3, 0], [3, 0]]
+----------------------------------------
+Optimizer: Nadam
+  Accuracy: 0.5
+  F1 Score: 0.0
+  Confusion Matrix: [[3, 0], [3, 0]]
+----------------------------------------
+Optimizer: RMSprop
+  Accuracy: 0.5
+  F1 Score: 0.6667
+  Confusion Matrix: [[0, 3], [0, 3]]
+----------------------------------------
+Optimizer: Adagrad
+  Accuracy: 0.5
+  F1 Score: 0.6667
+  Confusion Matrix: [[0, 3], [0, 3]]
+----------------------------------------
+Optimizer: Adadelta
+  Accuracy: 0.5
+  F1 Score: 0.0
+  Confusion Matrix: [[3, 0], [3, 0]]
+----------------------------------------
+Optimizer: Ftrl
+  Accuracy: 0.5
+  F1 Score: 0.0
+  Confusion Matrix: [[3, 0], [3, 0]]
+----------------------------------------
